@@ -1,0 +1,7 @@
+C:\Users\user pc\RiderProjects\P2_2_1214063\P2_2_1214063\bin\Debug\P2_2_1214063.exe
+C:\Users\user pc\RiderProjects\P2_2_1214063\P2_2_1214063\bin\Debug\P2_2_1214063.pdb
+C:\Users\user pc\RiderProjects\P2_2_1214063\P2_2_1214063\obj\Debug\P2_2_1214063.csproj.AssemblyReference.cache
+C:\Users\user pc\RiderProjects\P2_2_1214063\P2_2_1214063\obj\Debug\P2_2_1214063.csproj.SuggestedBindingRedirects.cache
+C:\Users\user pc\RiderProjects\P2_2_1214063\P2_2_1214063\obj\Debug\P2_2_1214063.csproj.CoreCompileInputs.cache
+C:\Users\user pc\RiderProjects\P2_2_1214063\P2_2_1214063\obj\Debug\P2_2_1214063.exe
+C:\Users\user pc\RiderProjects\P2_2_1214063\P2_2_1214063\obj\Debug\P2_2_1214063.pdb
